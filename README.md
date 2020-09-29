@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Takumi's SWEN GitHub IO Introduciton
 
-You can use the [editor on GitHub](https://github.com/tsf2802/tsf2802.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is being used for the assignment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some things about me:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Hi I'm Takumi Scott Fukuzawa and I'm from Maryland, and I attended Centennial High School there. Some of my hobbies are video editing. playing video games, golfing, walking and skateboarding.
 
-# Header 1
-## Header 2
-### Header 3
+# my favorite food
+![Image](src)
 
-- Bulleted
-- List
+# a link to the SE website!
+[Link to website] (http://www.se.rit.edu/~swen-101/00/index.html)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# things i want to learn from this course
+1. I would like to learn more about using methodologies to make projects.
+2. I would like to learn how to properly maintain software because I heard that was very important from my highschool CS teacher
+3. I would like to learn how to produce software that is easy for the user to use.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsf2802/tsf2802.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
