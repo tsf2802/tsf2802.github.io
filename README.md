@@ -1,10 +1,12 @@
 ## Takumi's SWEN GitHub IO Introduciton
 
-This page is being used for the assignment.
-[Link to website](http://www.se.rit.edu/~swen-101/00/index.html)
+# This page is being used for the assignment.
+[Link to SWEN website](http://www.se.rit.edu/~swen-101/00/index.html)
 
-My Favorite food:
-![Image](https://tsf2802.github.io/master/ramen.jpg)
+# My Favorite food:
+![Image](ramen.jpg)
+
+A bowl of ramen always gets me hyped up 
 
 ### Some things about me:
 ```markdown
