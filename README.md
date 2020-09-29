@@ -13,7 +13,7 @@ A bowl of ramen always gets me hyped up
 Hi I'm Takumi Scott Fukuzawa and I'm from Maryland, and I attended Centennial High School there. Some of my hobbies are video editing. playing video games, golfing, walking and skateboarding.
 
 # things i want to learn from this course
-1. I would like to learn more about using methodologies to make projects.
-2. I would like to learn how to properly maintain software because I heard that was very important from my highschool CS teacher
-3. I would like to learn how to produce software that is easy for the user to use.
+- I would like to learn more about using methodologies to make projects.
+- I would like to learn how to properly maintain software because I heard that was very important from my highschool CS teacher
+- I would like to learn how to produce software that is easy for the user to use.
 
